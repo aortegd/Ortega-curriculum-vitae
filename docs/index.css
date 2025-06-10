@@ -11,7 +11,7 @@ header {
     color: white;
     text-align: center;
     padding: 20px;
-    border-bottom: 5px solid #e8491d;
+    border-bottom: 5px solid #f988ff;
 }
 
 header h1 {
@@ -32,7 +32,7 @@ header img.perfil {
 }
 
 nav {
-    background-color: #e8491d;
+    background-color: #f988ff;
     padding: 10px 0;
     text-align: center;
 }
@@ -68,7 +68,7 @@ main {
 
 h2 {
     color: #35424a;
-    border-bottom: 2px solid #e8491d;
+    border-bottom: 2px solid #f988ff;
     padding-bottom: 10px;
 }
 
@@ -92,7 +92,7 @@ footer {
 }
 
 footer a {
-    color: #e8491d;
+    color: #f988ff;
     text-decoration: none;
 }
 
